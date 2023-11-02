@@ -63,17 +63,20 @@ html {
     border-radius: 20px;
     padding: 8px 80px;
     border: solid 1px rgb(255, 255, 255);
+    cursor: pointer;
 }
 .btn2 {
     border-radius: 20px;
     padding: 8px 78px;
     border: solid 1px rgb(255, 255, 255);
+    cursor: pointer;
 }
 .btn-o {
     border-radius: 20px;
     padding: 8px 30px;
     border: solid 1px rgb(255, 255, 255);
     background-color: rgb(255, 255, 255);
+    
 }
 
 .color-raya {
@@ -87,6 +90,7 @@ html {
     background-color: rgb(29, 155, 240);
     color: aliceblue;
     border: solid 1px rgb(29, 155, 240);
+    cursor: pointer;
 }
 
 .display-font {
@@ -115,11 +119,13 @@ html {
     top: 35px;
     color: rgb(29, 155, 240);
     font-size: 17px;
-    background-color: rgb(255, 255, 255)
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
 }
 
 .font-azul {
     color: rgb(146, 182, 241);
+    cursor: pointer;
 }
 
 .pagina-fija {
