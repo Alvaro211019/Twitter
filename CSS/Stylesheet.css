@@ -98,11 +98,30 @@ html {
 
 .display-font3 {
     font-size: 13px;
+    
+}
+
+.display-font4 {
+    font-size: 20px;
     position: relative;
-    top: 423px;
-    right: 375px;
+    top: 40px;
+}
+
+.btn-log {
+    border-radius: 20px;
+    padding: 12px 105px;
+    border: solid 1px rgb(221, 234, 253);
+    position: relative;
+    top: 35px;
+    color: rgb(29, 155, 240);
+    font-size: 17px;
+    background-color: rgb(255, 255, 255)
 }
 
 .font-azul {
     color: rgb(146, 182, 241);
+}
+
+.pagina-fija {
+    overflow: hidden;
 }
