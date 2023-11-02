@@ -62,12 +62,12 @@ html {
 .btn {
     border-radius: 20px;
     padding: 8px 80px;
-    border: solid 1px rgb(221, 234, 253);
+    border: solid 1px rgb(255, 255, 255);
 }
 .btn2 {
     border-radius: 20px;
     padding: 8px 78px;
-    border: solid 1px rgb(221, 234, 253);
+    border: solid 1px rgb(255, 255, 255);
 }
 .btn-o {
     border-radius: 20px;
